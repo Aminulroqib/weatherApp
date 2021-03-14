@@ -1,1 +1,1 @@
-#https://aminulroqib.github.io/weatherApp/index.html
+#https://aminulroqib.github.io/weatherApp
